@@ -1,0 +1,15 @@
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\bin\Debug\net7.0\programaMedia.exe
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\bin\Debug\net7.0\programaMedia.deps.json
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\bin\Debug\net7.0\programaMedia.runtimeconfig.json
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\bin\Debug\net7.0\programaMedia.dll
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\bin\Debug\net7.0\programaMedia.pdb
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\obj\Debug\net7.0\programaMedia.csproj.AssemblyReference.cache
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\obj\Debug\net7.0\programaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\obj\Debug\net7.0\programaMedia.AssemblyInfoInputs.cache
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\obj\Debug\net7.0\programaMedia.AssemblyInfo.cs
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\obj\Debug\net7.0\programaMedia.csproj.CoreCompileInputs.cache
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\obj\Debug\net7.0\programaMedia.dll
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\obj\Debug\net7.0\refint\programaMedia.dll
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\obj\Debug\net7.0\programaMedia.pdb
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\obj\Debug\net7.0\programaMedia.genruntimeconfig.cache
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaMedia\obj\Debug\net7.0\ref\programaMedia.dll
